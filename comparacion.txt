@@ -1,0 +1,2 @@
+ORM (Sequelize): Facilita el desarrollo y el mantenimiento con menos código y menor complejidad, pero con un ligero overhead de rendimiento.
+Procedimientos almacenados: Proporcionan mejor rendimiento en operaciones complejas, pero añaden complejidad y requieren más líneas de código tanto en la base de datos como en el código JavaScript.
